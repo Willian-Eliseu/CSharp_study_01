@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\bin\Debug\net8.0\CSharp_study_01.exe
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\bin\Debug\net8.0\CSharp_study_01.deps.json
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\bin\Debug\net8.0\CSharp_study_01.runtimeconfig.json
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\bin\Debug\net8.0\CSharp_study_01.dll
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\bin\Debug\net8.0\CSharp_study_01.pdb
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\obj\Debug\net8.0\CSharp_study_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\obj\Debug\net8.0\CSharp_study_01.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\obj\Debug\net8.0\CSharp_study_01.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\obj\Debug\net8.0\CSharp_study_01.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\obj\Debug\net8.0\CSharp_study_01.dll
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\obj\Debug\net8.0\refint\CSharp_study_01.dll
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\obj\Debug\net8.0\CSharp_study_01.pdb
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\obj\Debug\net8.0\CSharp_study_01.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\CSharp_study_01\obj\Debug\net8.0\ref\CSharp_study_01.dll
